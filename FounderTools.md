@@ -32,6 +32,9 @@ Tools to help you develop a product or service.
 - [Firebase](https://firebase.google.com/) – Scalable backend for authentication, hosting, and database.  
 - [DigitalOcean](https://www.digitalocean.com/) – Cloud hosting for startups with easy deployment.
 - [Hoppscotch](https://hoppscotch.io/) - Open source, browser-based API testing.
+- [Convex](https://www.convex.dev/) - Open-source reactive database for app developers.
+- [Xata](https://xata.io/) - Serverless Postgress provider
+- [PlanetScale](https://planetscale.com/) - Serverless MySQL provider
 
 ## 🎨 Design & Prototyping  
 
@@ -60,7 +63,8 @@ Free/Cheap hosting options to host a website or app.
 - [Netlify](https://www.netlify.com/) – Simple deployment for static sites and JAMstack apps.  
 - [Railway](https://railway.app/) – Deploy apps, databases, and services easily.  
 - [Heroku](https://www.heroku.com/) – Cloud application platform for easy backend deployment.  
-- [Firebase](https://firebase.google.com/) – Provides free frontend hosting for MVPs and early-stage startups.  
+- [Firebase](https://firebase.google.com/) – Provides free frontend hosting for MVPs and early-stage startups.
+- [Cloudflare Pages](https://pages.cloudflare.com/) - JAMstack platform
 
 ## 📊 Analytics & User Feedback  
 
@@ -81,7 +85,8 @@ Get your product out there to attain users!
 - [Ahrefs](https://ahrefs.com/) – Powerful SEO and backlink analysis tool.  
 - [Semrush](https://www.semrush.com/) – All-in-one SEO, content, and PPC tool.  
 - [Mailchimp](https://mailchimp.com/) – Email marketing automation platform.  
-- [ConvertKit](https://convertkit.com/) – Email marketing for creators and startups.  
+- [ConvertKit](https://convertkit.com/) – Email marketing for creators and startups.
+- [Social Proof Examples](https://socialproofexamples.com/) - Toolkit for building trust and credibility.
 
 ## 💬 Sales & Customer Support  
 
@@ -90,7 +95,8 @@ Manage customers and sales.
 - [Intercom](https://www.intercom.com/) – Live chat, support, and customer messaging.  
 - [Drift](https://www.drift.com/) – Conversational marketing and sales chatbots.  
 - [Zendesk](https://www.zendesk.com/) – Customer support ticketing system.  
-- [HubSpot CRM](https://www.hubspot.com/) – Free CRM with marketing and sales tools.  
+- [HubSpot CRM](https://www.hubspot.com/) – Free CRM with marketing and sales tools.
+- [Help Scout](https://www.helpscout.com/) - Live chat, support, and customer messaging. 
 
 ## 💰 Funding & Monetization  
 
@@ -100,7 +106,8 @@ Tools to accept payements or monetize your services.
 - [Paddle](https://www.paddle.com/) – All-in-one payments and tax compliance for SaaS.  
 - [Gumroad](https://www.gumroad.com/) – Sell digital products easily.  
 - [Kickstarter](https://www.kickstarter.com/) – Crowdfunding platform for creative projects.  
-- [Indiegogo](https://www.indiegogo.com/) – Crowdfunding for startups and ideas.  
+- [Indiegogo](https://www.indiegogo.com/) – Crowdfunding for startups and ideas.
+- [Lemon Squeezy](https://www.lemonsqueezy.com/) - Payments, tax and subscriptions.
 
 ---
 
