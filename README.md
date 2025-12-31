@@ -1,11 +1,3 @@
-# [🚀 Awesome Launch](https://awesome-launch.com/)
-
-**A curated directory of free and friendly communities to showcase your side projects!**  
-
-✨ **Now available as a [website](https://awesome-launch.com/)!** ✨  
-🔍 Enjoy a **better, searchable experience**—check it out!
-
----
 
 ## 📢 Explore the Directory  
 
