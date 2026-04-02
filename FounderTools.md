@@ -88,6 +88,7 @@ Get your product out there to attain users!
 - [Mailchimp](https://mailchimp.com/) – Email marketing automation platform.  
 - [ConvertKit](https://convertkit.com/) – Email marketing for creators and startups.
 - [Social Proof Examples](https://socialproofexamples.com/) - Toolkit for building trust and credibility.
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Discover long-tail product submission sites from public alternatives pages like SaaSHub.
 
 ## 💬 Sales & Customer Support  
 
