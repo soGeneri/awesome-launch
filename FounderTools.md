@@ -88,6 +88,7 @@ Get your product out there to attain users!
 - [Mailchimp](https://mailchimp.com/) – Email marketing automation platform.  
 - [ConvertKit](https://convertkit.com/) – Email marketing for creators and startups.
 - [Social Proof Examples](https://socialproofexamples.com/) - Toolkit for building trust and credibility.
+- [Signals CLI](https://github.com/sortlist/signals-cli) – Intent signal monitoring. Track LinkedIn engagers, keyword posters, job changers, and funding events from the terminal. JSON output. `npm i -g signals-sortlist-cli`
 
 ## 💬 Sales & Customer Support  
 
@@ -97,7 +98,8 @@ Manage customers and sales.
 - [Drift](https://www.drift.com/) – Conversational marketing and sales chatbots.  
 - [Zendesk](https://www.zendesk.com/) – Customer support ticketing system.  
 - [HubSpot CRM](https://www.hubspot.com/) – Free CRM with marketing and sales tools.
-- [Help Scout](https://www.helpscout.com/) - Live chat, support, and customer messaging. 
+- [Help Scout](https://www.helpscout.com/) - Live chat, support, and customer messaging.
+- [Overloop CLI](https://github.com/sortlist/overloop-cli) – AI-powered outbound engine. Source 450M+ contacts, run email + LinkedIn campaigns from the terminal. JSON output. `npm i -g overloop-cli`
 
 ## 💰 Funding & Monetization  
 
