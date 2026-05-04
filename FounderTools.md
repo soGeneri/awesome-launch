@@ -88,6 +88,7 @@ Get your product out there to attain users!
 - [Mailchimp](https://mailchimp.com/) – Email marketing automation platform.  
 - [ConvertKit](https://convertkit.com/) – Email marketing for creators and startups.
 - [Social Proof Examples](https://socialproofexamples.com/) - Toolkit for building trust and credibility.
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based marketing/SEO utilities — SEO meta tag generator, OG image generator, favicon generator, AI robots.txt generator, AI content disclosure generator (EU AI Act), and color palette generator. No signup, open source.
 
 ## 💬 Sales & Customer Support  
 
