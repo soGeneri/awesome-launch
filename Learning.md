@@ -36,6 +36,7 @@ Best online courses to learn about startups and entrepreneurship.
 - **[SaaStr](https://www.saastr.com/)** – SaaS-focused blog and conference series.
 - **[Reforge](https://www.reforge.com/)** – Advanced growth and product strategy courses.
 - **[Coursera – Startup Courses](https://www.coursera.org/courses?query=startup)** – Various startup-related courses.
+- **[AIHumanLove](https://aihumanlove.com/)** – Free AI tools directory with 1,500+ tools, free AI courses for beginners, a 175+ prompt library, and 37 interactive experiments. EN/ES/PT.
 
 ---
 
