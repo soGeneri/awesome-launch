@@ -81,6 +81,7 @@ Sites that list startups for long-term visibility.
 - **[Capterra](https://www.capterra.com/)** – Review platform for software businesses.
 - **[GetApp](https://www.getapp.com/)** – Business software directory.
 - **[SaaSworthy](https://www.saasworthy.com/)** – SaaS comparison and reviews.
+- **[ProductDirs](https://productdirs.com/)** – AI tools and tech product discovery directory with daily launches and curated reviews.
 
 ## 📈 Marketing & Growth Resources
 
@@ -97,6 +98,7 @@ Platforms to showcase and gain visibility.
 - **[Makerpad](https://www.makerpad.co/)** – Community for no-code creators.
 - **[F6S](https://www.f6s.com/)** – Startup platform with investor connections.
 - **[AngelList](https://angel.co/)** – Find investors and promote your startup.
+- **[ThisTools](https://thistools.app/)** – Tech product discovery platform for daily launches and upvotes.
 
 ## 🎯 Niche Communities
 
