@@ -35,6 +35,7 @@ Tools to help you develop a product or service.
 - [Convex](https://www.convex.dev/) - Open-source reactive database for app developers.
 - [Xata](https://xata.io/) - Serverless Postgress provider
 - [PlanetScale](https://planetscale.com/) - Serverless MySQL provider
+- [FreePNGConvert](https://freepngconvert.com/) – Free browser-side WebP to PNG converter. No upload to server, fast, private, unlimited conversions.
 
 ## 🎨 Design & Prototyping  
 
