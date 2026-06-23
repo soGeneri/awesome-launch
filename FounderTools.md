@@ -116,4 +116,3 @@ Tools to accept payements or monetize your services.
 
 [![GitHub](https://img.shields.io/badge/github-soGeneri/awesome-launch-orange.svg)](https://github.com/soGeneri/awesome-launch)  
 [![Twitter](https://img.shields.io/badge/twitter-soGeneri-blue.svg)](https://twitter.com/soGeneri)  
-[![Website](https://img.shields.io/badge/website-awesomelaunch.web.app-blue.svg)](https://awesomelaunch.web.app/)
