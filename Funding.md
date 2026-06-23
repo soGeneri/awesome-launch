@@ -36,6 +36,8 @@ Raise money from the public to fund your startup or product.
 - **[SeedInvest](https://www.seedinvest.com/)** – Equity crowdfunding platform for startups.
 - **[Republic](https://republic.com/)** – Crowdfunding for startups with retail investors.
 - **[Fundable](https://www.fundable.com/)** – Equity and rewards-based crowdfunding for startups.
+- **[WeFunder](https://wefunder.com/)** – Equity crowdfunding for startups, allowing non-accredited investors to participate.
+- **[Open Collective](https://opencollective.com/)** – Transparent funding platform for open source projects and community initiatives.
 
 ---
 

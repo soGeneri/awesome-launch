@@ -25,6 +25,8 @@ Stay updated with the latest startup insights and strategies.
 - **[a16z Blog](https://a16z.com/)** – Insights from Andreessen Horowitz on startups and VC.
 - **[Product Hunt Guides](https://blog.producthunt.com/)** – Guides on launching and growing products.
 - **[Lenny’s Newsletter](https://www.lennysnewsletter.com/)** – Growth and product insights from Lenny Rachitsky.
+- **[MicroConf On Air](https://microconf.com/podcast)** – Podcast interviewing bootstrapped SaaS founders about what actually worked.
+- **[Stripe Press](https://press.stripe.com/)** – Books and essays on innovation, startups, and engineering culture.
 
 ---
 
@@ -36,6 +38,7 @@ Best online courses to learn about startups and entrepreneurship.
 - **[SaaStr](https://www.saastr.com/)** – SaaS-focused blog and conference series.
 - **[Reforge](https://www.reforge.com/)** – Advanced growth and product strategy courses.
 - **[Coursera – Startup Courses](https://www.coursera.org/courses?query=startup)** – Various startup-related courses.
+- **[Harvard Innovation Labs](https://innovationlabs.harvard.edu/)** – Free startup resources, workshops, and founder guides from Harvard.
 
 ---
 

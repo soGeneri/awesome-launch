@@ -54,6 +54,8 @@ Connect with entrepreneurs and get long-term support.
 - **[Side Project Club](https://www.sideprojectclub.com/)** – Slack group for creators.
 - **[Launch Club](https://www.launchclub.io/)** – Slack group for makers and entrepreneurs.
 - **[Startups.com](https://www.startups.com/community)** – Startup support and feedback.
+- **[The Hive Index](https://thehiveindex.com/)** – Find the best online communities for any topic, including 200+ founder groups.
+- **[Startup Grind](https://www.startupgrind.com/)** – Global community with 600+ chapters, events, and founder networking.
 
 ## 📰 Getting Press & Exposure
 
@@ -107,6 +109,9 @@ Communities for targeted exposure.
 - **[r/SoftwareAsAService](https://www.reddit.com/r/SoftwareAsAService/)** – SaaS startup community.
 - **[r/Startup](https://www.reddit.com/r/Startup/)** – Discussions about launching startups.
 - **[r/Smallbusiness](https://www.reddit.com/r/Smallbusiness/)** – Business growth discussions.
+- **[r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)** – Large and active startup and business community.
+- **[r/SaaS](https://www.reddit.com/r/SaaS/)** – Subreddit for SaaS founders and operators.
+- **[r/indiehackers](https://www.reddit.com/r/indiehackers/)** – Reddit community for indie makers.
 
 ## 🔧 Showcasing Hardware Projects
 

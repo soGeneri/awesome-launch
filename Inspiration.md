@@ -47,6 +47,9 @@ Stay ahead with emerging trends and market research.
 - **[CB Insights](https://www.cbinsights.com/research)** – Data-driven insights into market trends.
 - **[ShipFast](https://shipfa.st/)** - Check out their leaderboards to see startups and verified Stripe revenue.
 - **[IndiePage](https://indiepa.ge/)** - Link tree for entrepreneurs. Also features accurate start-up data.
+- **[Failory](https://www.failory.com/)** - Startup failure stories and lessons from failed founders.
+- **[MicroConf](https://microconf.com/)** - Community and conference for bootstrapped SaaS founders, with talks and case studies.
+- **[Acquired Podcast](https://www.acquired.fm/)** - Deep dives into the stories behind great companies and their acquisitions.
 
 📢 **Want to contribute?**  
 Submit a pull request or suggest new resources in the issues section!

@@ -17,6 +17,7 @@ This directory is part of the **[Awesome Launch](./README.md)** project, a crowd
   - [📊 Analytics \& User Feedback](#-analytics--user-feedback)
   - [📢 Marketing \& SEO](#-marketing--seo)
   - [💬 Sales \& Customer Support](#-sales--customer-support)
+  - [⚖️ Legal \& Business](#-legal--business)
   - [💰 Funding \& Monetization](#-funding--monetization)
 
 ---
@@ -35,6 +36,9 @@ Tools to help you develop a product or service.
 - [Convex](https://www.convex.dev/) - Open-source reactive database for app developers.
 - [Xata](https://xata.io/) - Serverless Postgress provider
 - [PlanetScale](https://planetscale.com/) - Serverless MySQL provider
+- [Neon](https://neon.tech/) - Serverless Postgres with generous free tier and branching.
+- [Turso](https://turso.tech/) - Edge-hosted SQLite, great for globally distributed apps.
+- [Resend](https://resend.com/) - Email API for developers, built around React Email and modern DX.
 
 ## 🎨 Design & Prototyping  
 
@@ -66,6 +70,8 @@ Free/Cheap hosting options to host a website or app.
 - [Heroku](https://www.heroku.com/) – Cloud application platform for easy backend deployment.  
 - [Firebase](https://firebase.google.com/) – Provides free frontend hosting for MVPs and early-stage startups.
 - [Cloudflare Pages](https://pages.cloudflare.com/) - JAMstack platform
+- [Render](https://render.com/) - Zero-config cloud hosting with generous free tier and managed databases.
+- [Fly.io](https://fly.io/) - Deploy apps close to users with edge compute and persistent volumes.
 
 ## 📊 Analytics & User Feedback  
 
@@ -77,6 +83,7 @@ Tools to help determine site and app interactions.
 - [Fathom Analytics](https://usefathom.com/) – Simple and GDPR-compliant website analytics.  
 - [Umami Cloud](https://umami.is/) – Open-source, privacy-focused website analytics.  
 - [Plausible](https://plausible.io/) – Privacy-friendly, simple web analytics.  
+- [Mixpanel](https://mixpanel.com/) - Product analytics with a generous free startup plan.
 
 ## 📢 Marketing & SEO  
 
@@ -88,6 +95,7 @@ Get your product out there to attain users!
 - [Mailchimp](https://mailchimp.com/) – Email marketing automation platform.  
 - [ConvertKit](https://convertkit.com/) – Email marketing for creators and startups.
 - [Social Proof Examples](https://socialproofexamples.com/) - Toolkit for building trust and credibility.
+- [Hunter.io](https://hunter.io/) - Find and verify professional email addresses for cold outreach.
 
 ## 💬 Sales & Customer Support  
 
@@ -99,9 +107,19 @@ Manage customers and sales.
 - [HubSpot CRM](https://www.hubspot.com/) – Free CRM with marketing and sales tools.
 - [Help Scout](https://www.helpscout.com/) - Live chat, support, and customer messaging. 
 
+## ⚖️ Legal & Business
+
+Set up your company properly.
+
+- [Stripe Atlas](https://stripe.com/atlas) - Incorporate a US company, open a bank account, and get stock issuance handled.
+- [Clerky](https://www.clerky.com/) - Startup legal paperwork built by attorneys who worked with Y Combinator.
+- [Firstbase](https://www.firstbase.io/) - Incorporation, compliance, bookkeeping, and taxes for global founders.
+- [OpenCorporates](https://opencorporates.com/) - Free and open database of companies worldwide.
+
+
 ## 💰 Funding & Monetization  
 
-Tools to accept payements or monetize your services.
+Tools to accept payments or monetize your services.
 
 - [Stripe](https://stripe.com/) – Payment processing and subscriptions.  
 - [Paddle](https://www.paddle.com/) – All-in-one payments and tax compliance for SaaS.  
