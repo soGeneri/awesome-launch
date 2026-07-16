@@ -27,6 +27,7 @@ This directory is part of the **[Awesome Launch](./README.md)** project, a crowd
 Tools to help you develop a product or service.
 
 - [GitHub](https://github.com/) – Code hosting, collaboration, and version control.  
+- [Tura](https://github.com/Tura-AI/tura) – Open-source local coding agent with terminal, TUI, and desktop interfaces, custom model providers, and cross-platform support.
 - [GitLab](https://gitlab.com/) – Alternative to GitHub with CI/CD built-in.  
 - [Bitbucket](https://bitbucket.org/) – Git repository for teams, integrated with Jira.  
 - [Supabase](https://supabase.com/) – Open-source Firebase alternative for backend services.  
