@@ -96,6 +96,7 @@ Get your product out there to attain users!
 - [ConvertKit](https://convertkit.com/) – Email marketing for creators and startups.
 - [Social Proof Examples](https://socialproofexamples.com/) - Toolkit for building trust and credibility.
 - [Hunter.io](https://hunter.io/) - Find and verify professional email addresses for cold outreach.
+- [Screpy](https://screpy.com/) – AI-assisted SEO platform for website audits, rank tracking, Core Web Vitals, and reports.
 
 ## 💬 Sales & Customer Support  
 
