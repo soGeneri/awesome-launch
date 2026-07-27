@@ -82,6 +82,7 @@ Sites that list startups for long-term visibility.
 - **[AngelList](https://angel.co/)** – Startup database for fundraising and talent.
 - **[Capterra](https://www.capterra.com/)** – Review platform for software businesses.
 - **[GetApp](https://www.getapp.com/)** – Business software directory.
+- **[Mydentify](https://mydentify.com/)** – Permanent product directory organized by user goals, with free listings and weekly leaderboards.
 - **[SaaSworthy](https://www.saasworthy.com/)** – SaaS comparison and reviews.
 
 ## 📈 Marketing & Growth Resources
