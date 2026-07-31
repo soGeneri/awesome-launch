@@ -26,3 +26,7 @@ Discover the best blogs, courses, and guides to help you build and scale your st
 💡 *Want to suggest a resource? Open a PR or issue on GitHub!*  
 
 [![Twitter](https://img.shields.io/badge/twitter-soGeneri-blue.svg)](https://twitter.com/soGeneri)
+
+## Image Tools
+
+- [FreePNGConvert](https://freepngconvert.com) - Browser-side WebP to PNG converter. No upload, fast, private.
