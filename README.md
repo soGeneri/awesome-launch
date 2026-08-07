@@ -26,3 +26,4 @@ Discover the best blogs, courses, and guides to help you build and scale your st
 💡 *Want to suggest a resource? Open a PR or issue on GitHub!*  
 
 [![Twitter](https://img.shields.io/badge/twitter-soGeneri-blue.svg)](https://twitter.com/soGeneri)
+- [Para-Inc AI Side-Hustle Prompts](https://github.com/OmarAlshoaiby/ai-side-hustle-prompts) — free, import-ready AI-automation resource.
