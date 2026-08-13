@@ -83,6 +83,7 @@ Sites that list startups for long-term visibility.
 - **[Capterra](https://www.capterra.com/)** – Review platform for software businesses.
 - **[GetApp](https://www.getapp.com/)** – Business software directory.
 - **[SaaSworthy](https://www.saasworthy.com/)** – SaaS comparison and reviews.
+- **[Launchory](https://www.launchory.app/)** – Free startup directory with a public profile page and dofollow link on approval.
 
 ## 📈 Marketing & Growth Resources
 
