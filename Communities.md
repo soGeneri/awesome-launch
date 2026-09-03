@@ -65,6 +65,7 @@ Resources for getting media coverage and public attention.
 - **[Hacker News](https://news.ycombinator.com/)** – High-traffic tech community.
 - **[Launching Next](https://www.launchingnext.com/)** – Directory for new startups.
 - **[F6S](https://www.f6s.com/)** – Startup platform with listing opportunities.
+- **[MustSee](https://mustsee.dev/)** – Numbered directory for new product launches.
 
 ## 🔗 SEO & Link Building
 
@@ -83,6 +84,7 @@ Sites that list startups for long-term visibility.
 - **[Capterra](https://www.capterra.com/)** – Review platform for software businesses.
 - **[GetApp](https://www.getapp.com/)** – Business software directory.
 - **[SaaSworthy](https://www.saasworthy.com/)** – SaaS comparison and reviews.
+- **[MustSee](https://mustsee.dev/)** – Numbered directory for new product launches.
 
 ## 📈 Marketing & Growth Resources
 
@@ -99,6 +101,7 @@ Platforms to showcase and gain visibility.
 - **[Makerpad](https://www.makerpad.co/)** – Community for no-code creators.
 - **[F6S](https://www.f6s.com/)** – Startup platform with investor connections.
 - **[AngelList](https://angel.co/)** – Find investors and promote your startup.
+- **[MustSee](https://mustsee.dev/)** – Numbered directory for new product launches.
 
 ## 🎯 Niche Communities
 
@@ -137,4 +140,3 @@ Ways to fund and monetize your startup.
 - **[Teespring](https://www.teespring.com/)** – Sell custom merchandise.
 - **[Dribbble](https://dribbble.com/)** – Showcase design projects.
 - **[Behance](https://www.behance.net/)** – Portfolio platform for creatives.
-  
