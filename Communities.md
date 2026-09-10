@@ -83,6 +83,7 @@ Sites that list startups for long-term visibility.
 - **[Capterra](https://www.capterra.com/)** – Review platform for software businesses.
 - **[GetApp](https://www.getapp.com/)** – Business software directory.
 - **[SaaSworthy](https://www.saasworthy.com/)** – SaaS comparison and reviews.
+- **[VibeHacker](https://vibehacker.com)** – Product discovery community for AI builders and vibe coders: directory, reviews, discussions, and launches.
 
 ## 📈 Marketing & Growth Resources
 
