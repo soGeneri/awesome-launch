@@ -96,6 +96,7 @@ Get your product out there to attain users!
 - [ConvertKit](https://convertkit.com/) – Email marketing for creators and startups.
 - [Social Proof Examples](https://socialproofexamples.com/) - Toolkit for building trust and credibility.
 - [Hunter.io](https://hunter.io/) - Find and verify professional email addresses for cold outreach.
+- [SaaS Launch Directories Explorer](https://themerchcog.github.io/saas-launch-directories-2026/) - Free directory explorer and backlink verification tool suite for startup founders.
 
 ## 💬 Sales & Customer Support  
 
