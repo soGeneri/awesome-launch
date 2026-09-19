@@ -96,6 +96,7 @@ Get your product out there to attain users!
 - [ConvertKit](https://convertkit.com/) – Email marketing for creators and startups.
 - [Social Proof Examples](https://socialproofexamples.com/) - Toolkit for building trust and credibility.
 - [Hunter.io](https://hunter.io/) - Find and verify professional email addresses for cold outreach.
+- [shortshort](https://www.shortshort.io/) - Turn a long talk, podcast or webinar into vertical 9:16 shorts with word-level captions.
 
 ## 💬 Sales & Customer Support  
 
