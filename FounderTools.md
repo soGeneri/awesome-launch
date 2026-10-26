@@ -84,6 +84,7 @@ Tools to help determine site and app interactions.
 - [Umami Cloud](https://umami.is/) – Open-source, privacy-focused website analytics.  
 - [Plausible](https://plausible.io/) – Privacy-friendly, simple web analytics.  
 - [Mixpanel](https://mixpanel.com/) - Product analytics with a generous free startup plan.
+- [WishKit](https://www.wishkit.io/) - In-app feature request board with user voting for iOS and web apps.  
 
 ## 📢 Marketing & SEO  
 
