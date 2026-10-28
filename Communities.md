@@ -65,6 +65,7 @@ Resources for getting media coverage and public attention.
 - **[Hacker News](https://news.ycombinator.com/)** – High-traffic tech community.
 - **[Launching Next](https://www.launchingnext.com/)** – Directory for new startups.
 - **[F6S](https://www.f6s.com/)** – Startup platform with listing opportunities.
+- **[RadarMakers](https://radarmakers.com/)** - Free launch platform where other makers rate your product.
 
 ## 🔗 SEO & Link Building
 
