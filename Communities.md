@@ -99,6 +99,7 @@ Platforms to showcase and gain visibility.
 - **[Makerpad](https://www.makerpad.co/)** – Community for no-code creators.
 - **[F6S](https://www.f6s.com/)** – Startup platform with investor connections.
 - **[AngelList](https://angel.co/)** – Find investors and promote your startup.
+- **[What I Am Building](https://whatiambuilding.com/directory)** – Free public page + directory for showing every project you're building.
 
 ## 🎯 Niche Communities
 
