@@ -40,6 +40,7 @@ Best places to launch and gain traction.
 
 - **[Product Hunt](https://www.producthunt.com/)** – Showcase your startup to tech enthusiasts.
 - **[Uneed](https://www.uneed.best)** – Alternative to Product Hunt with fair exposure.
+- **[CazaProducto](https://cazaproducto.com)** – The LATAM version of Product Hunt, with a free backlink for every launch.
 - **[Indie Hackers](https://www.indiehackers.com/)** – Connect with indie makers and promote your project.
 - **[Hacker News - Show HN](https://news.ycombinator.com/show)** – Share your project with the tech community.
 - **[Dev.to](https://dev.to/)** – Blog and showcase projects for developer exposure.
