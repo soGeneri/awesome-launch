@@ -83,6 +83,7 @@ Sites that list startups for long-term visibility.
 - **[Capterra](https://www.capterra.com/)** – Review platform for software businesses.
 - **[GetApp](https://www.getapp.com/)** – Business software directory.
 - **[SaaSworthy](https://www.saasworthy.com/)** – SaaS comparison and reviews.
+- **[Project Radar](https://getprojectradar.com/)** – Free directory of indie projects; ones that fit get a published Project Note.
 
 ## 📈 Marketing & Growth Resources
 
