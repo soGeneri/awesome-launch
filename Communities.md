@@ -83,6 +83,9 @@ Sites that list startups for long-term visibility.
 - **[Capterra](https://www.capterra.com/)** – Review platform for software businesses.
 - **[GetApp](https://www.getapp.com/)** – Business software directory.
 - **[SaaSworthy](https://www.saasworthy.com/)** – SaaS comparison and reviews.
+- **[PWA Directory](https://pwa.directory/)** – Curated directory of installable progressive web apps.
+- **[WebApps Directory](https://webapps.directory/)** – Curated directory of web apps that run in the browser.
+- **[Boilerplates Directory](https://boilerplates.directory/)** – Compares SaaS starter kits and boilerplates by stack, pricing and features.
 
 ## 📈 Marketing & Growth Resources
 
