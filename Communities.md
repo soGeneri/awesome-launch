@@ -81,6 +81,7 @@ Sites that list startups for long-term visibility.
 - **[Crunchbase](https://www.crunchbase.com/)** – Business information platform.
 - **[AngelList](https://angel.co/)** – Startup database for fundraising and talent.
 - **[Capterra](https://www.capterra.com/)** – Review platform for software businesses.
+- **[EarlyLore](https://earlylore.com/)** – Research workspace for founders studying real SaaS products, revenue signals, and competitor changes before they build.
 - **[GetApp](https://www.getapp.com/)** – Business software directory.
 - **[SaaSworthy](https://www.saasworthy.com/)** – SaaS comparison and reviews.
 
