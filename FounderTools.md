@@ -96,6 +96,7 @@ Get your product out there to attain users!
 - [ConvertKit](https://convertkit.com/) – Email marketing for creators and startups.
 - [Social Proof Examples](https://socialproofexamples.com/) - Toolkit for building trust and credibility.
 - [Hunter.io](https://hunter.io/) - Find and verify professional email addresses for cold outreach.
+- [Public Prompts](https://www.publicprompts.art/) - Discover AI tools by category and pricing; browsing is free, with paid editorially reviewed owner submissions at US$19.99 once plus tax.
 
 ## 💬 Sales & Customer Support  
 
