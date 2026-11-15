@@ -43,6 +43,7 @@ Best places to launch and gain traction.
 - **[Indie Hackers](https://www.indiehackers.com/)** – Connect with indie makers and promote your project.
 - **[Hacker News - Show HN](https://news.ycombinator.com/show)** – Share your project with the tech community.
 - **[Dev.to](https://dev.to/)** – Blog and showcase projects for developer exposure.
+- **[daily.dev for Startups](https://daily.dev/startups/)** – Gives a developer tool its own page on daily.dev and puts its posts in the feeds of developers who follow its topics.
 - **[r/SideProject](https://www.reddit.com/r/SideProject/)** – Active subreddit for self-promotion.
 
 ## 🤝 Networking & Community Building
