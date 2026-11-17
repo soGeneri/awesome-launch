@@ -99,6 +99,7 @@ Platforms to showcase and gain visibility.
 - **[Makerpad](https://www.makerpad.co/)** – Community for no-code creators.
 - **[F6S](https://www.f6s.com/)** – Startup platform with investor connections.
 - **[AngelList](https://angel.co/)** – Find investors and promote your startup.
+- **[Shipfolio](https://shipfolio.io)** – Launch board for indie products, with each one's tech stack, ship log and revenue verified from Stripe, RevenueCat, the App Store or Google Play.
 
 ## 🎯 Niche Communities
 
