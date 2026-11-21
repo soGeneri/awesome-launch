@@ -83,6 +83,7 @@ Sites that list startups for long-term visibility.
 - **[Capterra](https://www.capterra.com/)** – Review platform for software businesses.
 - **[GetApp](https://www.getapp.com/)** – Business software directory.
 - **[SaaSworthy](https://www.saasworthy.com/)** – SaaS comparison and reviews.
+- **[The AI Ledger](https://ailedger.uk/submit-your-ai-tool)** – Directory of AI tools for accountants and bookkeepers (UK and US).
 
 ## 📈 Marketing & Growth Resources
 
