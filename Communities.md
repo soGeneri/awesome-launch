@@ -80,6 +80,7 @@ Sites that list startups for long-term visibility.
 
 - **[Crunchbase](https://www.crunchbase.com/)** – Business information platform.
 - **[AngelList](https://angel.co/)** – Startup database for fundraising and talent.
+- **[draftlab](https://getdraftlab.com/launch)** – The community platform where people share what they make with AI, and how they make it, with the tools, prompts and costs behind it.
 - **[Capterra](https://www.capterra.com/)** – Review platform for software businesses.
 - **[GetApp](https://www.getapp.com/)** – Business software directory.
 - **[SaaSworthy](https://www.saasworthy.com/)** – SaaS comparison and reviews.
