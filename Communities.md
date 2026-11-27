@@ -44,6 +44,7 @@ Best places to launch and gain traction.
 - **[Hacker News - Show HN](https://news.ycombinator.com/show)** – Share your project with the tech community.
 - **[Dev.to](https://dev.to/)** – Blog and showcase projects for developer exposure.
 - **[r/SideProject](https://www.reddit.com/r/SideProject/)** – Active subreddit for self-promotion.
+- **[Prime Chapter](https://www.primechapter.com/)** – Showcase a new product on a human-reviewed page with a followed backlink, early access testers and a launch calendar.
 
 ## 🤝 Networking & Community Building
 
